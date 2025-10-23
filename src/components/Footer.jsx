@@ -94,7 +94,7 @@ const Footer = () => {
                 }}
                 onClick={() =>
                   window.open(
-                    "https://www.facebook.com/CentroDeRehabilitacionValentia",
+                    "https://www.facebook.com/p/Centro-de-rehabilitaci%C3%B3n-valentia-61576555484633/",
                     "_blank"
                   )
                 }
